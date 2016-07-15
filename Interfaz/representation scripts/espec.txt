@@ -1,0 +1,1 @@
+los vectores resultados deben ser filas 1XN

@@ -1,0 +1,5 @@
+Validaciones
+representaciones repetidas
+manejo de errores
+experimentos con mismo nombre
+cerrar las waitbars
